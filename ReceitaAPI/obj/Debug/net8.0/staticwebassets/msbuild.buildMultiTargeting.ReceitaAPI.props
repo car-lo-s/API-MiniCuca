@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReceitaAPI.props" />
+</Project>
